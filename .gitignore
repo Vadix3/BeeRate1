@@ -1,0 +1,15 @@
+# Ignore Xcode specific files
+*.xcuserstate
+*.xcworkspace
+
+# Ignore build artifacts
+build/
+DerivedData/
+
+# Ignore personal settings
+.DS_Store
+
+# Ignore configuration files
+Secrets.xcconfig
+
+
